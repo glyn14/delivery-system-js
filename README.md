@@ -1,5 +1,6 @@
+```
 ===========================================
-          Personal Profile
+              Personal Profile
 ===========================================
 Pet: Not a pet lover
 Name: Glynese Jacildo
@@ -9,3 +10,4 @@ Address: Veterans Village Iloilo City
 Favorite Song: Daylight - Taylor Swift
 Motivation: To keep growing and finding joy in every step of life.
 Support: Encouragement from loved ones and recognition of my efforts.
+```
